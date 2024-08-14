@@ -1,0 +1,28 @@
+name: ag_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - python
+ - numpy
+ - scipy
+ - pandas
+ - matplotlib
+ - seaborn
+ - jupyter
+ - opencv
+ - scikit-learn
+ - scikit-image
+ - xgboost
+ - optuna
+ - pip
+ - geopandas
+ - gdal
+ - shapely
+ - pip:
+   - rasterio
+   - spectral
+   - fiona
+   - rioxarray
+   - xarray
+   - earthpy
