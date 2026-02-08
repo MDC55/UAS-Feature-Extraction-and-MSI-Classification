@@ -40,8 +40,7 @@ This project develops a comprehensive framework for **feature extraction and mac
 
 ### Testing and Experimental Scripts
 
-- **`fynbos_testing_manisha.ipynb` / `fynbos_testing_manisha1.ipynb`**: Experimental testing notebooks
-- **`fynbos_exp.py`**: Additional fynbos experiments
+- **`fynbos_testing_manisha1.ipynb`**: Experimental testing notebooks
 - **`fynbos_variogram.py`**: Variogram experiments for fynbos data
 
 ### Configuration
