@@ -21,7 +21,7 @@ This project develops a comprehensive framework for **feature extraction and mac
 - **`Indicies_fynbos_v2.ipynb`**: Extract spectral vegetation indices from multispectral imagery
 - **`Texture_fynbos.ipynb`**: Compute texture features using GLCM and fast texture analysis
 - **`texture.py`**: Texture analysis wrapper class for GLCM calculations across multiple channels
-- **`alpha_estimator.py` / `alpha_estimator v2.py`**: Alpha parameter estimation measuring biodiversity
+- **`alpha_estimator v2.py`**: Alpha parameter estimation measuring biodiversity
 - **`asd_corrected_spectra_main.py`**: ASD spectra correction pipeline
 
 ### Classification and Feature Selection
