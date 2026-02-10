@@ -32,15 +32,12 @@ This project develops a comprehensive framework for **feature extraction and mac
 - **`for_journal_results.py`**: Final results compilation and publication-ready outputs
 
 ### Analysis and Visualization
-
+- **`indices_visualization.py`**: Indices feature visualization
 - **`Variogram_VI.ipynb` / `Variogram_bandwise.ipynb`**: Variogram analysis for spatial structure assessment
 - **`stats.py`**: Statistical analysis utilities
 - **`Texture_visualization.py`**: Texture feature visualization
 - **`performance_metrics_radar_chart.html`**: Interactive performance metrics visualization
 
-### Testing and Experimental Scripts
-
-- **`fynbos_testing.ipynb`**: Experimental testing notebooks
 
 
 ### Configuration
