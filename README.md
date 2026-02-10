@@ -26,10 +26,9 @@ This project develops a comprehensive framework for **feature extraction and mac
 
 ### Classification and Feature Selection
 
-- **`Classifier_feature_selection.ipynb` / `Classifier_feature_selection.py`**: Feature selection and preprocessing for classification
-- **`Classifier_feature_selection_v2.ipynb`**: Advanced feature selection (v2)
-- **`classifier.py`**: Main classification model implementation
-- **`for_journal_results.py`**: Final results compilation and publication-ready outputs
+- **`Classifier_feature_selection_V1/v2.ipynb`**: Feature selection and preprocessing for classification
+- **`classifier.py`**: Diferent classification model implementation
+- **`for_journal_results.py`**: Results outputs
 
 ### Analysis and Visualization
 - **`Indices_visualization.py`**: Indices feature visualization
